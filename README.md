@@ -13,7 +13,8 @@
 npm install
 npm start
 ```
-Then open [`localhost:3000`]
+Then open [`localhost:3000`](http://localhost:3000) in a browser.
+
 
 ## Dependencies
 ```
