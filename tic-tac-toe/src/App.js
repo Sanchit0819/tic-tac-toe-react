@@ -15,7 +15,6 @@ class App extends React.Component {
       isClickable: true
     };
   }
-
   handleClick = (index) => {
     if (!this.state.isClickable) {
       return;
